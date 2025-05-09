@@ -2,11 +2,6 @@
 
 ###
 
-<!-- RIGHT-ALIGNED GIF THAT AUTOPLAYS ON GITHUB -->
-<img align="right" width="150" src="https://media.giphy.com/media/XP8kV1sQnHF9AL30GE/giphy.gif" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
@@ -26,3 +21,8 @@
 </div>
 
 ###
+
+<br clear="both" />
+
+<!-- GitHub contribution snake -->
+<img src="https://raw.githubusercontent.com/stevehaworth02/stevehaworth02/output/snake.svg" alt="GitHub contribution snake animation" />
