@@ -14,7 +14,10 @@
 
 ###
 
-<img src="https://media.giphy.com/media/XP8kV1sQnHF9AL30GE/giphy.gif" width="150" align="right" />
+<video autoplay loop muted playsinline width="150" align="right">
+  <source src="your-hosted-video.mp4" type="video/mp4" />
+</video>
+
 
 
 ###
