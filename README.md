@@ -1,4 +1,26 @@
-<h2 align="left">Hi 👋! My name is Steven!<br>I'm a Master's Student at the University of Wisconsin-Madison<br>I like to use deep learning to make sense of human experience<br>I have papers in ML / Deep Learning, Risk models, Survival Analysis, Graph theory, and Neuroscience</h2>
+<h1 align="left">Hi 👋! My name is Steven!</h1>
+
+<p align="left">
+  <ul>
+    <li><sub>Master's Student of Data Science at the University of Wisconsin–Madison</sub></li>
+    <li><sub>Bachelor's Degree in Data Science with a concentration in Mathematics</sub></li>
+  </ul>
+</p>
+
+<h2 align="left">I like to use deep learning to make sense of the human experience.</h2>
+
+<h2 align="left">I have papers in:</h2>
+
+<p align="left">
+  <ul>
+    <li><sub>Frequentist Statistics</sub></li>
+    <li><sub>Competing Risk Models</sub></li>
+    <li><sub>Graph Theory</sub></li>
+    <li><sub>Survival Analysis</sub></li>
+    <li><sub>Neuroscience</sub></li>
+    <li><sub>Deep Learning Classification Methods</sub></li>
+  </ul>
+</p>
 
 ###
 
