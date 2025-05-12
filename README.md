@@ -13,12 +13,12 @@
 
 <p align="left">
   <ul>
-    <li><sub>Frequentist Statistics</sub></li>
+    <li><sub>Deep Learning Classification Methods</sub></li>
     <li><sub>Competing Risk Models</sub></li>
     <li><sub>Graph Theory</sub></li>
     <li><sub>Survival Analysis</sub></li>
     <li><sub>Neuroscience</sub></li>
-    <li><sub>Deep Learning Classification Methods</sub></li>
+    <li><sub>Frequentist Statistics</sub></li>
   </ul>
 </p>
 
