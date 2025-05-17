@@ -37,8 +37,6 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" height="30" alt="cassandra logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo" />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="30" alt="go logo" />
 </div>
 
