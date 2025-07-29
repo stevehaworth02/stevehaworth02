@@ -9,7 +9,7 @@
 
 <h2 align="left">I like to use deep learning to make sense our brains, and of the human experience.</h2>
 
-<h2 align="left">I write a lot of manuscripts, and created projects in applied neurophysiology, here are some of my favorites:</h2>
+<h2 align="left">I've written many manuscripts, and created projects in applied neurophysiology, here are some of my favorites:</h2>
 
 <p align="left">
   <ul>
