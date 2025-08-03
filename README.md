@@ -9,11 +9,13 @@
 
 <h2 align="left">I like to use deep learning to make sense our brains, and of the human experience.</h2>
 
-<h2 align="left">I've written many manuscripts, and created projects in applied neurophysiology, here are some of my favorites:</h2>
+<h2 align="left">I've written many manuscripts, and created projects in applied neurophysiology and financial data science, here are some of my favorites:</h2>
 
 <p align="left">
   <ul>
     <li><sub>Deep Learning Classification Methods</sub></li>
+    <li><sub>Diffusion-Based Possible Futures</sub></li>
+    <li><sub>Monte Carlo Price Simulation</sub></li>
     <li><sub>Competing Risk Models</sub></li>
     <li><sub>Graph Theory</sub></li>
     <li><sub>Survival Analysis</sub></li>
