@@ -1,4 +1,4 @@
-<h1 align="left">Hi! 👋 My name is Steven!</h1>
+<h1 align="left">Hi! 👋 My name is Steven,</h1>
 
 <p align="left">
   <ul>
@@ -7,9 +7,9 @@
   </ul>
 </p>
 
-<h2 align="left">I like to use deep learning to make sense our brains, and of the human experience.</h2>
+<h2 align="left">I like to use my data science skills to make sense of the human experience</h2>
 
-<h2 align="left">I've written many manuscripts, and created projects in applied neurophysiology and financial data science, here are some of my favorites:</h2>
+<h2 align="left">I've written many manuscripts and engineered projects in neurophysiology, here are some of my favorites:</h2>
 
 <p align="left">
   <ul>
