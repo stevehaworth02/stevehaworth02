@@ -9,20 +9,6 @@
 
 <h2 align="left">I like to use my data science skills to make sense of the human experience</h2>
 
-<h2 align="left">I've written many manuscripts and engineered projects in neurophysiology, here are some of my favorites:</h2>
-
-<p align="left">
-  <ul>
-    <li><sub>Deep Learning Classification Methods</sub></li>
-    <li><sub>Diffusion-Based Possible Futures</sub></li>
-    <li><sub>Monte Carlo Price Simulation</sub></li>
-    <li><sub>Competing Risk Models</sub></li>
-    <li><sub>Graph Theory</sub></li>
-    <li><sub>Survival Analysis</sub></li>
-    <li><sub>Neuroscience</sub></li>
-    <li><sub>Frequentist Statistics</sub></li>
-  </ul>
-</p>
 
 ###
 
