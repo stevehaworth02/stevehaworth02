@@ -1,19 +1,21 @@
 <h1 align="left">Steven Haworth</h1>
 
 <p align="left">
-  <sub>MS Data Science, University of Wisconsin–Madison</sub>
+  <span style="font-size: 0.92em;">MS Data Science, University of Wisconsin–Madison</span>
 </p>
 
-<ul align="left">
-  <li><sub>Computational Neuroscience</sub></li>
-  <li><sub>Machine Learning</sub></li>
-  <li><sub>Statistics</sub></li>
+<ul align="left" style="margin-top: 6px; padding-left: 18px;">
+  <li><span style="font-size: 0.92em; line-height: 1.2;">Computational Neuroscience</span></li>
+  <li><span style="font-size: 0.92em; line-height: 1.2;">Machine Learning</span></li>
+  <li><span style="font-size: 0.92em; line-height: 1.2;">Statistics</span></li>
 </ul>
 
 <br />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" height="30" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
   <img width="12" />
@@ -24,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="30" alt="networkx logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" height="30" alt="cassandra logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="30" alt="go logo" />
 </div>
 
 <br />
