@@ -1,7 +1,7 @@
 <h1 align="left">Steven Haworth</h1>
 
 <p align="left">
-  <sub>Master’s Student, Data Science — University of Wisconsin–Madison</sub>
+  <sub>MS Data Science, University of Wisconsin–Madison</sub>
 </p>
 
 <ul align="left">
