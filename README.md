@@ -1,16 +1,16 @@
-<h1 align="left">Hi! 👋 My name is Steven</h1>
+<h1 align="left">Steven Haworth</h1>
 
 <p align="left">
-  <ul>
-    <li><sub>Master's Student of Data Science at the University of Wisconsin–Madison</sub></li>
-    <li><sub>Bachelor's Degree in Data Science with a concentration in Mathematics</sub></li>
-  </ul>
+  <sub>Master’s Student, Data Science — University of Wisconsin–Madison</sub>
 </p>
 
-<h2 align="left">I like to use my data science skills to make sense of the human experience</h2>
+<ul align="left">
+  <li><sub>Computational Neuroscience</sub></li>
+  <li><sub>Machine Learning</sub></li>
+  <li><sub>Statistics</sub></li>
+</ul>
 
-
-###
+<br />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -28,18 +28,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="30" alt="go logo" />
 </div>
 
-
-
-
-###
+<br />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/stevenhaworth02/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn badge" />
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwub3Q8bYxFs6BrBTt-ttZj0I7FflvLdOpX2crpe7Kn0Fy7Hm75adaj5ZScIO-L0jhw3Bj-dWTbqTYx1pAZ_588Sd&user=LGthTCkAAAAJ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Scholar&logo=googlescholar&label=&color=2A6FDB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Scholar badge" />
   </a>
 </div>
-
-###
 
 <br clear="both" />
 
