@@ -25,7 +25,7 @@
 
 ### Research
 
-I build EEG models meant for the bedside, not just the benchmark. My work combines deep learning, statistical modeling, and mathematical optimization, applied to epilepsy, acute brain injury, and sleep, in collaboration with groups at WashU, Harvard / Beth Israel Deaconess, Yale, and UW–Madison.
+I work on machine learning for clinical EEG, using deep learning, statistical modeling, and mathematical optimization across epilepsy, acute brain injury, and sleep. Collaborators include groups at WashU, Harvard / Beth Israel Deaconess, Yale, and UW–Madison.
 
 - **Seizure detection under domain shift.** Spatiotemporal deep learning (CNN, BiLSTM, attention) trained on scalp EEG and validated on continuous ICU recordings, with a focus on false-alarm reduction.
 - **Seizure forecasting in the ICU.** Interpretable models that estimate near-term seizure risk from continuous EEG, with external validation on independent cohorts.
@@ -33,8 +33,6 @@ I build EEG models meant for the bedside, not just the benchmark. My work combin
 - **Sensor optimization.** Mixed-integer programming for minimal EEG montages that preserve classification performance.
 
 ### Selected Publications
-
-<sub><b>Bold</b> marks my name. Full list on <a href="https://scholar.google.com/citations?user=LGthTCkAAAAJ&hl=en">Google Scholar</a>.</sub>
 
 1. Phadikar S, Fatima S, **Haworth SE**, Grobbelaar M, Westover MB, Struck AF. Engineering and clinical biomarkers for machine learning based seizure prediction in hospitalized patients. *Journal of Clinical Neurophysiology*.
 2. De Paiva FB, …, **Haworth SE**, et al. Thermodynamic rigidity of harmonic brain states relates to general mental ability in juvenile myoclonic epilepsy. *Brain*. 2026. [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/41993553/)
