@@ -46,7 +46,7 @@ I work on machine learning for clinical EEG, using deep learning, statistical mo
 
 ### Conference Abstracts
 
-- Selte A, **Haworth SE**, Vanasse T, Gjini K, Sevak B, Riedner B, Alauddin T, et al. Neural signatures of conscious experience during sleep: a serial awakening study using high-density EEG (P3-14.005). *Neurology*. 2026;106(11 Suppl 1):3313. AAN Annual Meeting (presenting author).
+- Selte A, **Haworth SE**, Vanasse T, Gjini K, Sevak B, Riedner B, Alauddin T, et al. Neural signatures of conscious experience during sleep: a serial awakening study using high-density EEG (P3-14.005). *Neurology*. 2026;106(11 Suppl 1):3313. AAN Annual Meeting.
 - Accepted abstract, ACNS Annual Meeting, 2026.
 - *Graph Topology Predicts Consciousness*. ACNS Annual Meeting, 2025.
 
