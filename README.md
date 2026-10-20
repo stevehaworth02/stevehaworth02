@@ -32,23 +32,23 @@ I work on machine learning for clinical EEG, using deep learning, statistical mo
 - **Neural correlates of consciousness.** Topological and spectral signatures of high-density EEG during sleep and serial awakenings.
 - **Sensor optimization.** Mixed-integer programming for minimal EEG montages that preserve classification performance.
 
-### Selected Publications
+### Publications
 
-1. Phadikar S, Fatima S, **Haworth SE**, Grobbelaar M, Westover MB, Struck AF. Engineering and clinical biomarkers for machine learning based seizure prediction in hospitalized patients. *Journal of Clinical Neurophysiology*.
-2. De Paiva FB, …, **Haworth SE**, et al. Thermodynamic rigidity of harmonic brain states relates to general mental ability in juvenile myoclonic epilepsy. *Brain*. 2026. [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/41993553/)
-3. Philibert-Rosas S, …, **Haworth SE**, et al. A putative role of heavy cannabis use in temporal lobe epilepsy: a retrospective cohort study. *Epilepsia*. 2026.
-4. Krishnamurthy PV, …, **Haworth SE**, et al. Duration of EEG monitoring needed to ensure a low risk of seizure recurrence in hospitalized patients. *Journal of Neurology*. 2026;273(1):70.
+1. Selte A, **Haworth SE**, Vanasse T, Alauddin T, Gjini K, Philibert-Rosas S, et al. Neural signatures of conscious experience during sleep: a serial awakening study using high-density EEG. *bioRxiv*. 2026. [[DOI]](https://doi.org/10.1101/2026.08.16.745040) (co-first author; under review)
+2. Phadikar S, Philibert-Rosas S, **Haworth SE**, Fatima S, Grobbelaar M, et al. Predicting ICU seizures using 1 hour of cEEG. *Journal of Clinical Neurophysiology*. 2026.
+3. Krishnamurthy PV, Philibert-Rosas S, Rivkin M, Brace CJ, **Haworth SE**, et al. Duration of EEG monitoring needed to ensure a low risk of seizure recurrence in hospitalized patients. *Journal of Neurology*. 2026;273(1):70.
+4. Philibert-Rosas S, Guston KA, Kalkach-Aparicio M, Keller A, Semia S, …, **Haworth SE**, et al. Frequent cannabis use and the association with seizure burden in drug-resistant epilepsy. *Epilepsia*. 2026.
+5. De Paiva FB, Zhao M, Zhao M, Philibert-Rosas S, Brace CJ, Moe E, **Haworth SE**, et al. Thermodynamic rigidity of harmonic brain states relates to general mental ability in juvenile myoclonic epilepsy. *Brain*. 2026. [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/41993553/)
 
-**Under review and in preparation**
+**In preparation**
 
-- Serial-awakening high-density EEG study of dreaming and consciousness (co-first author). *Under review.*
-- ARGUS: spatiotemporal deep learning for EEG seizure detection (first author). *In preparation.*
+- ARGUS: spatiotemporal deep learning for EEG seizure detection (first author).
 
-### Presentations
+### Conference Abstracts
 
-- **ACNS 2026**, American Clinical Neurophysiology Society Annual Meeting (accepted abstract)
-- **ACNS 2025**, *Graph Topology Predicts Consciousness*
-- **AAN 2025**, American Academy of Neurology Annual Meeting: serial-awakening HD-EEG study (presenting author)
+- Selte A, **Haworth SE**, Vanasse T, Gjini K, Sevak B, Riedner B, Alauddin T, et al. Neural signatures of conscious experience during sleep: a serial awakening study using high-density EEG (P3-14.005). *Neurology*. 2026;106(11 Suppl 1):3313. AAN Annual Meeting (presenting author).
+- Accepted abstract, ACNS Annual Meeting, 2026.
+- *Graph Topology Predicts Consciousness*. ACNS Annual Meeting, 2025.
 
 ### Projects
 
